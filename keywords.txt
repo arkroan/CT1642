@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For CT1642
+# Each line has the name of the keyword, followed by a tab (not spaces), 
+# followed by the kind of keyword. 
+# Classes should be KEYWORD1 and are colored orange; 
+# functions should be KEYWORD2 and will be brown
+#######################################
+
+#######################################
+# Datatypes/classes (KEYWORD1)
+#######################################
+CT1642	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setPovDelay	KEYWORD2
+showNumber	KEYWORD2
+showSingle	KEYWORD2
+showChars	KEYWORD2
+showTime	KEYWORD2
+getKeyCode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

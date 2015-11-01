@@ -1,0 +1,8 @@
+
+This file contains the change history of the CT1642 Led Driver/ Key Scan Library.
+
+VERSION 0.0.1
+==============
+DATE: 2015-10-31
+
+- Initial Release
