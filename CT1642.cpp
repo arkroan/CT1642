@@ -490,6 +490,9 @@ byte CT1642::getCharByte(char character){
     case 'b':
       return (byte) DATA_b ;
       break;
+    case 'c':
+      return (byte) DATA_c ;
+      break;
     case 'C':
       return (byte) DATA_C ;
       break;
@@ -499,11 +502,53 @@ byte CT1642::getCharByte(char character){
     case 'E':
       return (byte) DATA_E ;
       break;
+    case 'e':
+      return (byte) DATA_e ;
+      break;
     case 'F':
       return (byte) DATA_F ;
       break;
+    case 'g':
+      return (byte) DATA_g ;
+      break;
+    case 'H':
+      return (byte) DATA_H ;
+      break;
+    case 'I':
+      return (byte) DATA_I ;
+      break;
+    case 'i':
+      return (byte) DATA_i ;
+      break;
+    case 'J':
+      return (byte) DATA_J ;
+      break;
+    case 'L':
+      return (byte) DATA_L ;
+      break;
+    case 'n':
+      return (byte) DATA_n ;
+      break;    
+    case 'o':
+      return (byte) DATA_o ;
+      break;    
+    case 'p':
+      return (byte) DATA_p ;
+      break;
 	case 'r':
       return (byte) DATA_r ;
+      break;
+    case 'S':
+      return (byte) DATA_S ;
+      break;
+    case 't':
+      return (byte) DATA_t ;
+      break;
+    case 'U':
+      return (byte) DATA_U ;
+      break;
+    case 'y':
+      return (byte) DATA_y ;
       break;
 	case ' ':
       return (byte) DATA_DARK ;
